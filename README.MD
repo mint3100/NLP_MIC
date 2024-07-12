@@ -1,4 +1,4 @@
-# Natural Language Processing (자연어 처리)
+# Natural Language Processing MIC (마이크를 통한 음성 인식 후 자연어 처리)
 Project NiceShot\
 본 프로젝트는 마이크를 통하여 자연어를 처리하는 목적으로 제작된 코드입니다.
 
